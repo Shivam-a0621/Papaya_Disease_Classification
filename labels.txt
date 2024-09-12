@@ -1,0 +1,5 @@
+0 anthracanose
+1 black_spot
+2 pyropthora
+3 powdery_mildery
+4 ring spot
